@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.hypothesis/
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Docker / build local
+*.log
+
+# Artefactos generados (se versionan los modelos serializados deliberadamente
+# para evidencia del pipeline, pero no caches temporales)
+data/processed/*.tmp
+
+# Secretos / configuración local
+.env
+.env.local
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
