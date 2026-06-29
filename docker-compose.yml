@@ -1,0 +1,58 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: streaming_database
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: streaming_clientes
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./database/perfil_usuarios.csv:/docker-entrypoint-initdb.d/perfil_usuarios.csv
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d streaming_clientes"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api-source:
+    build: ./api-source
+    container_name: streaming_api_source
+    ports:
+      - "7000:7000"
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://localhost:7000/health')\""]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  ml-service:
+    build: ./ml-service
+    container_name: streaming_ml_service
+    depends_on:
+      postgres:
+        condition: service_healthy
+      api-source:
+        condition: service_healthy
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: streaming_clientes
+      DB_USER: admin
+      DB_PASSWORD: admin
+      API_SOURCE_URL: http://api-source:7000/usuarios-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./ml-service/models:/app/models
+
+  dashboard:
+    build: ./dashboard
+    container_name: streaming_dashboard
+    depends_on:
+      - ml-service
+    ports:
+      - "8501:8501"
