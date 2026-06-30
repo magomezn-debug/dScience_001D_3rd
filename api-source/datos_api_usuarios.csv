@@ -1,0 +1,301 @@
+id_cliente,plan_streaming,satisfaccion_usuario,reclamos_ultimos_3_meses,dispositivo_principal
+1001,Basico,55,0,Smart TV
+1002,Estandar,62,3,Celular
+1003,Premium,69,1,Notebook
+1004,Familiar,76,4,Tablet
+1005,Basico,83,2,Consola
+1006,Estandar,90,0,Smart TV
+1007,Premium,97,3,Celular
+1008,Familiar,59,1,Notebook
+1009,Basico,66,4,Tablet
+1010,Estandar,73,2,Consola
+1011,Premium,80,0,Smart TV
+1012,Familiar,87,3,Celular
+1013,Basico,94,1,Notebook
+1014,Estandar,56,4,Tablet
+1015,Premium,63,2,Consola
+1016,Familiar,70,0,Smart TV
+1017,Basico,77,3,Celular
+1018,Estandar,84,1,Notebook
+1019,Premium,91,4,Tablet
+1020,Familiar,98,2,Consola
+1021,Basico,60,0,Smart TV
+1022,Estandar,67,3,Celular
+1023,Premium,74,1,Notebook
+1024,Familiar,81,4,Tablet
+1025,Basico,88,2,Consola
+1026,Estandar,95,0,Smart TV
+1027,Premium,57,3,Celular
+1028,Familiar,64,1,Notebook
+1029,Basico,71,4,Tablet
+1030,Estandar,78,2,Consola
+1031,Premium,85,0,Smart TV
+1032,Familiar,92,3,Celular
+1033,Basico,99,1,Notebook
+1034,Estandar,61,4,Tablet
+1035,Premium,68,2,Consola
+1036,Familiar,75,0,Smart TV
+1037,Basico,82,3,Celular
+1038,Estandar,89,1,Notebook
+1039,Premium,96,4,Tablet
+1040,Familiar,58,2,Consola
+1041,Basico,65,0,Smart TV
+1042,Estandar,72,3,Celular
+1043,Premium,79,1,Notebook
+1044,Familiar,86,4,Tablet
+1045,Basico,93,2,Consola
+1046,Estandar,55,0,Smart TV
+1047,Premium,62,3,Celular
+1048,Familiar,69,1,Notebook
+1049,Basico,76,4,Tablet
+1050,Estandar,83,2,Consola
+1051,Premium,90,0,Smart TV
+1052,Familiar,97,3,Celular
+1053,Basico,59,1,Notebook
+1054,Estandar,66,4,Tablet
+1055,Premium,73,2,Consola
+1056,Familiar,80,0,Smart TV
+1057,Basico,87,3,Celular
+1058,Estandar,94,1,Notebook
+1059,Premium,56,4,Tablet
+1060,Familiar,63,2,Consola
+1061,Basico,70,0,Smart TV
+1062,Estandar,77,3,Celular
+1063,Premium,84,1,Notebook
+1064,Familiar,91,4,Tablet
+1065,Basico,98,2,Consola
+1066,Estandar,60,0,Smart TV
+1067,Premium,67,3,Celular
+1068,Familiar,74,1,Notebook
+1069,Basico,81,4,Tablet
+1070,Estandar,88,2,Consola
+1071,Premium,95,0,Smart TV
+1072,Familiar,57,3,Celular
+1073,Basico,64,1,Notebook
+1074,Estandar,71,4,Tablet
+1075,Premium,78,2,Consola
+1076,Familiar,85,0,Smart TV
+1077,Basico,92,3,Celular
+1078,Estandar,99,1,Notebook
+1079,Premium,61,4,Tablet
+1080,Familiar,68,2,Consola
+1081,Basico,75,0,Smart TV
+1082,Estandar,82,3,Celular
+1083,Premium,89,1,Notebook
+1084,Familiar,96,4,Tablet
+1085,Basico,58,2,Consola
+1086,Estandar,65,0,Smart TV
+1087,Premium,72,3,Celular
+1088,Familiar,79,1,Notebook
+1089,Basico,86,4,Tablet
+1090,Estandar,93,2,Consola
+1091,Premium,55,0,Smart TV
+1092,Familiar,62,3,Celular
+1093,Basico,69,1,Notebook
+1094,Estandar,76,4,Tablet
+1095,Premium,83,2,Consola
+1096,Familiar,90,0,Smart TV
+1097,Basico,97,3,Celular
+1098,Estandar,59,1,Notebook
+1099,Premium,66,4,Tablet
+1100,Familiar,73,2,Consola
+1101,Basico,80,0,Smart TV
+1102,Estandar,87,3,Celular
+1103,Premium,94,1,Notebook
+1104,Familiar,56,4,Tablet
+1105,Basico,63,2,Consola
+1106,Estandar,70,0,Smart TV
+1107,Premium,77,3,Celular
+1108,Familiar,84,1,Notebook
+1109,Basico,91,4,Tablet
+1110,Estandar,98,2,Consola
+1111,Premium,60,0,Smart TV
+1112,Familiar,67,3,Celular
+1113,Basico,74,1,Notebook
+1114,Estandar,81,4,Tablet
+1115,Premium,88,2,Consola
+1116,Familiar,95,0,Smart TV
+1117,Basico,57,3,Celular
+1118,Estandar,64,1,Notebook
+1119,Premium,71,4,Tablet
+1120,Familiar,78,2,Consola
+1121,Basico,85,0,Smart TV
+1122,Estandar,92,3,Celular
+1123,Premium,99,1,Notebook
+1124,Familiar,61,4,Tablet
+1125,Basico,68,2,Consola
+1126,Estandar,75,0,Smart TV
+1127,Premium,82,3,Celular
+1128,Familiar,89,1,Notebook
+1129,Basico,96,4,Tablet
+1130,Estandar,58,2,Consola
+1131,Premium,65,0,Smart TV
+1132,Familiar,72,3,Celular
+1133,Basico,79,1,Notebook
+1134,Estandar,86,4,Tablet
+1135,Premium,93,2,Consola
+1136,Familiar,55,0,Smart TV
+1137,Basico,62,3,Celular
+1138,Estandar,69,1,Notebook
+1139,Premium,76,4,Tablet
+1140,Familiar,83,2,Consola
+1141,Basico,90,0,Smart TV
+1142,Estandar,97,3,Celular
+1143,Premium,59,1,Notebook
+1144,Familiar,66,4,Tablet
+1145,Basico,73,2,Consola
+1146,Estandar,80,0,Smart TV
+1147,Premium,87,3,Celular
+1148,Familiar,94,1,Notebook
+1149,Basico,56,4,Tablet
+1150,Estandar,63,2,Consola
+1151,Premium,70,0,Smart TV
+1152,Familiar,77,3,Celular
+1153,Basico,84,1,Notebook
+1154,Estandar,91,4,Tablet
+1155,Premium,98,2,Consola
+1156,Familiar,60,0,Smart TV
+1157,Basico,67,3,Celular
+1158,Estandar,74,1,Notebook
+1159,Premium,81,4,Tablet
+1160,Familiar,88,2,Consola
+1161,Basico,95,0,Smart TV
+1162,Estandar,57,3,Celular
+1163,Premium,64,1,Notebook
+1164,Familiar,71,4,Tablet
+1165,Basico,78,2,Consola
+1166,Estandar,85,0,Smart TV
+1167,Premium,92,3,Celular
+1168,Familiar,99,1,Notebook
+1169,Basico,61,4,Tablet
+1170,Estandar,68,2,Consola
+1171,Premium,75,0,Smart TV
+1172,Familiar,82,3,Celular
+1173,Basico,89,1,Notebook
+1174,Estandar,96,4,Tablet
+1175,Premium,58,2,Consola
+1176,Familiar,65,0,Smart TV
+1177,Basico,72,3,Celular
+1178,Estandar,79,1,Notebook
+1179,Premium,86,4,Tablet
+1180,Familiar,93,2,Consola
+1181,Basico,55,0,Smart TV
+1182,Estandar,62,3,Celular
+1183,Premium,69,1,Notebook
+1184,Familiar,76,4,Tablet
+1185,Basico,83,2,Consola
+1186,Estandar,90,0,Smart TV
+1187,Premium,97,3,Celular
+1188,Familiar,59,1,Notebook
+1189,Basico,66,4,Tablet
+1190,Estandar,73,2,Consola
+1191,Premium,80,0,Smart TV
+1192,Familiar,87,3,Celular
+1193,Basico,94,1,Notebook
+1194,Estandar,56,4,Tablet
+1195,Premium,63,2,Consola
+1196,Familiar,70,0,Smart TV
+1197,Basico,77,3,Celular
+1198,Estandar,84,1,Notebook
+1199,Premium,91,4,Tablet
+1200,Familiar,98,2,Consola
+1201,Basico,60,0,Smart TV
+1202,Estandar,67,3,Celular
+1203,Premium,74,1,Notebook
+1204,Familiar,81,4,Tablet
+1205,Basico,88,2,Consola
+1206,Estandar,95,0,Smart TV
+1207,Premium,57,3,Celular
+1208,Familiar,64,1,Notebook
+1209,Basico,71,4,Tablet
+1210,Estandar,78,2,Consola
+1211,Premium,85,0,Smart TV
+1212,Familiar,92,3,Celular
+1213,Basico,99,1,Notebook
+1214,Estandar,61,4,Tablet
+1215,Premium,68,2,Consola
+1216,Familiar,75,0,Smart TV
+1217,Basico,82,3,Celular
+1218,Estandar,89,1,Notebook
+1219,Premium,96,4,Tablet
+1220,Familiar,58,2,Consola
+1221,Basico,65,0,Smart TV
+1222,Estandar,72,3,Celular
+1223,Premium,79,1,Notebook
+1224,Familiar,86,4,Tablet
+1225,Basico,93,2,Consola
+1226,Estandar,55,0,Smart TV
+1227,Premium,62,3,Celular
+1228,Familiar,69,1,Notebook
+1229,Basico,76,4,Tablet
+1230,Estandar,83,2,Consola
+1231,Premium,90,0,Smart TV
+1232,Familiar,97,3,Celular
+1233,Basico,59,1,Notebook
+1234,Estandar,66,4,Tablet
+1235,Premium,73,2,Consola
+1236,Familiar,80,0,Smart TV
+1237,Basico,87,3,Celular
+1238,Estandar,94,1,Notebook
+1239,Premium,56,4,Tablet
+1240,Familiar,63,2,Consola
+1241,Basico,70,0,Smart TV
+1242,Estandar,77,3,Celular
+1243,Premium,84,1,Notebook
+1244,Familiar,91,4,Tablet
+1245,Basico,98,2,Consola
+1246,Estandar,60,0,Smart TV
+1247,Premium,67,3,Celular
+1248,Familiar,74,1,Notebook
+1249,Basico,81,4,Tablet
+1250,Estandar,88,2,Consola
+1251,Premium,95,0,Smart TV
+1252,Familiar,57,3,Celular
+1253,Basico,64,1,Notebook
+1254,Estandar,71,4,Tablet
+1255,Premium,78,2,Consola
+1256,Familiar,85,0,Smart TV
+1257,Basico,92,3,Celular
+1258,Estandar,99,1,Notebook
+1259,Premium,61,4,Tablet
+1260,Familiar,68,2,Consola
+1261,Basico,75,0,Smart TV
+1262,Estandar,82,3,Celular
+1263,Premium,89,1,Notebook
+1264,Familiar,96,4,Tablet
+1265,Basico,58,2,Consola
+1266,Estandar,65,0,Smart TV
+1267,Premium,72,3,Celular
+1268,Familiar,79,1,Notebook
+1269,Basico,86,4,Tablet
+1270,Estandar,93,2,Consola
+1271,Premium,55,0,Smart TV
+1272,Familiar,62,3,Celular
+1273,Basico,69,1,Notebook
+1274,Estandar,76,4,Tablet
+1275,Premium,83,2,Consola
+1276,Familiar,90,0,Smart TV
+1277,Basico,97,3,Celular
+1278,Estandar,59,1,Notebook
+1279,Premium,66,4,Tablet
+1280,Familiar,73,2,Consola
+1281,Basico,80,0,Smart TV
+1282,Estandar,87,3,Celular
+1283,Premium,94,1,Notebook
+1284,Familiar,56,4,Tablet
+1285,Basico,63,2,Consola
+1286,Estandar,70,0,Smart TV
+1287,Premium,77,3,Celular
+1288,Familiar,84,1,Notebook
+1289,Basico,91,4,Tablet
+1290,Estandar,98,2,Consola
+1291,Premium,60,0,Smart TV
+1292,Familiar,67,3,Celular
+1293,Basico,74,1,Notebook
+1294,Estandar,81,4,Tablet
+1295,Premium,88,2,Consola
+1296,Familiar,95,0,Smart TV
+1297,Basico,57,3,Celular
+1298,Estandar,64,1,Notebook
+1299,Premium,71,4,Tablet
+1300,Familiar,78,2,Consola
