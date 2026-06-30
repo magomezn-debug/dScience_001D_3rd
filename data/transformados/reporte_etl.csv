@@ -1,0 +1,5 @@
+fuente,registros,columnas
+CSV usuarios_streaming,300,10
+PostgreSQL perfil_usuarios,300,7
+API REST usuarios_api,300,7
+Dataset integrado,300,22

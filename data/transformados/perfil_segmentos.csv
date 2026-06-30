@@ -1,0 +1,4 @@
+cluster,usuarios,consumo_promedio,gasto_promedio,satisfaccion_promedio,reclamos_promedio,antiguedad_promedio,edad_promedio,uso_app_movil
+0,77,46.48,428.09,78.99,1.92,70.82,39.73,0.61
+1,112,28.87,212.0,76.54,1.98,43.71,43.82,0.6
+2,111,35.5,79.68,75.68,2.07,14.64,48.15,0.57
